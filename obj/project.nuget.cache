@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obsXBjJOKxFNKEajvtI4DAbVSyulaz/BFZHtSzOQem4rrOTRquR/xchTJpZffCuL9P9YzDF8dyQy5a/or+aWWQ==",
+  "dgSpecHash": "C8XLBiTLIT5Le2gNjA8nIF56o+rI7su/xt7hCkW7oHVQOPzmivXo4U+YB05bcVryB5/bUw/156zf0qVA/Sq+7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\source\\repos\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+  "projectFilePath": "C:\\Users\\student\\Documents\\КучевасовУП03\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
